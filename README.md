@@ -24,6 +24,6 @@ after that you need to run project with these commands:
 ```bash
 > go mod download
 > go build
-> go run
+> ./auth-service
 ```
 
