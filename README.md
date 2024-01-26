@@ -27,3 +27,6 @@ after that you need to run project with these commands:
 > ./auth-service
 ```
 
+## Authors
+
+- [Ehsan Movaffagh](https://github.com/Ehsan200)
